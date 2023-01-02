@@ -1,0 +1,28 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\Users\\Dr_It\\AppData\\Roaming\\jupyter\\kernels\\09d7b60c-9b60-4d04-aba6-3cfd427f2d96\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\Dr_It\\AppData\\Roaming\\jupyter\\kernels\\5ec93f2b-300c-47b2-97e8-ebbf705eae6a\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\Dr_It\\AppData\\Roaming\\jupyter\\kernels\\35fadb5b-5837-46af-b973-dcb2ba58302b\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\Dr_It\\Anaconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Program Files\\Python37\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Dr_It\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
